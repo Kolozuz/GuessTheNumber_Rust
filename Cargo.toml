@@ -1,5 +1,5 @@
 [package]
-name = "rustsito"
+name = "GuessTheNumber"
 version = "0.1.0"
 edition = "2021"
 
@@ -11,5 +11,5 @@ logbar = "0.1"
 indicatif = "0.17.6"
 
 [[bin]]
-name = "rustsito"
-path = "main.rs"
+name = "guess_the_number"
+path = "./src/main.rs"
